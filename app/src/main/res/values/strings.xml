@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TremolPrint</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="usb">USB</string>
+    <string name="print">Print</string>
+    <string name="msg_please_select_device">Please select device</string>
+    <string name="msg_please_wait">Please wait</string>
+    <string name="msg_bluetooth_is_not_supported">Bluetooth is not supported</string>
+</resources>
